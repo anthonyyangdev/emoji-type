@@ -1,0 +1,21 @@
+{
+  "name": "emoji-type",
+  "version": "1.0.0",
+  "description": "This is literally just a package with a type for every recent emoji.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node generate.js"
+  },
+  "keywords": [
+    "emoji",
+    "typing",
+    "type"
+  ],
+  "author": "Anthony Yang",
+  "license": "ISC",
+  "devDependencies": {
+    "emojis-list": "^3.0.0",
+    "typescript": "^4.1.3"
+  }
+}
