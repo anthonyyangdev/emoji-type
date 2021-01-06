@@ -1,6 +1,6 @@
 {
   "name": "emoji-type",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is literally just a package with a type for every recent emoji.",
   "main": "index.js",
   "scripts": {
