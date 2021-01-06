@@ -119,3 +119,4 @@ dist
 
 generate.js
 .idea/
+tsconfig.json
