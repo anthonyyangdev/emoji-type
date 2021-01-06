@@ -21,7 +21,7 @@ $ yarn add emoji-type
 ### With require
 
 ```js
-const {emojiType} = require('emoji-type');
+const {Emoji} = require('emoji-type');
 ```
 
 ### With ES6 import
