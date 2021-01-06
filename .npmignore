@@ -118,3 +118,4 @@ dist
 .pnp.*
 
 generate.js
+.idea/
