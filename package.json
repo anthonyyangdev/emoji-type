@@ -12,6 +12,9 @@
     "typing",
     "type"
   ],
+  "repository": {
+    "url": "https://github.com/anthonyyangdev/emoji-type"
+  },
   "author": "Anthony Yang",
   "license": "ISC",
   "devDependencies": {
