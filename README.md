@@ -1,6 +1,6 @@
 # emoji-type
 
-> This is literally just a TypeScript package with a type for every recent emoji.
+> This is just a TypeScript package with types and values for every recent emoji.
 
 ## Installation
 
@@ -21,21 +21,20 @@ $ yarn add emoji-type
 ### With require
 
 ```js
-const {Emoji} = require('emoji-type');
+const {Emoji, EmojiLibrary} = require('emoji-type');
 ```
 
 ### With ES6 import
 
 ```ts
-import {Emoji} from 'emoji-type';
+import {Emoji, EmojiLibrary} from 'emoji-type';
 ```
 
 ## Usage
 
 ```ts
-import {Emoji} from 'emoji-type';
-
-const icon: Emoji = "🐕";
+import {Emoji, EmojiLibrary} from 'emoji-type';
+const icon: Emoji = EmojiLibrary.animals_nature.animal_mammal.dog;  // "🐕";
 ```
 
 ## Related
