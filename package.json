@@ -16,7 +16,7 @@
     "url": "https://github.com/anthonyyangdev/emoji-type"
   },
   "author": "Anthony Yang",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/dotenv": "^8.2.0",
