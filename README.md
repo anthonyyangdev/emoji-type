@@ -48,6 +48,10 @@ You can find other packages which provide Emoji values and utility functions.
 - [is-standard-emoji](https://github.com/kikobeats/is-standard-emoji) – Simply way to check if a emoji is a standard emoji.
 - [trim-emoji](https://github.com/Kikobeats/trim-emoji) – Deletes ':' from the begin and the end of an emoji shortcut.
 
+## Attributions
+
+Emoji sourced from https://emoji-api.com/.
+
 ## License
 
 MIT © [Anthony Yang](https://github.com/anthonyyangdev)
